@@ -26,7 +26,7 @@ The aim is to identify distinct customer segments from a given dataset using clu
 
 ## Data Dictionary
 
-The dataset includes the following features:
+We assume that the data was collected in the year 2016. The dataset includes the following features:
 
 ### Customer Information
 - ID: Unique identifier for each customer
